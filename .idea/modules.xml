@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/subarray-product-less-than-k/subarray-product-less-than-k.iml" filepath="$PROJECT_DIR$/subarray-product-less-than-k/subarray-product-less-than-k.iml" />
       <module fileurl="file://$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" filepath="$PROJECT_DIR$/valid-parentheses/valid-parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindrome-number/palindrome-number.iml" filepath="$PROJECT_DIR$/palindrome-number/palindrome-number.iml" />
     </modules>
   </component>
 </project>
