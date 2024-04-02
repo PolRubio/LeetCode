@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.iml" filepath="$PROJECT_DIR$/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/length-of-last-word/length-of-last-word.iml" filepath="$PROJECT_DIR$/length-of-last-word/length-of-last-word.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest-common-prefix/longest-common-prefix.iml" filepath="$PROJECT_DIR$/longest-common-prefix/longest-common-prefix.iml" />
