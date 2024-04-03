@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/longest-common-prefix/longest-common-prefix.iml" filepath="$PROJECT_DIR$/longest-common-prefix/longest-common-prefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/merge-two-sorted-lists/merge-two-sorted-lists.iml" filepath="$PROJECT_DIR$/merge-two-sorted-lists/merge-two-sorted-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome-number/palindrome-number.iml" filepath="$PROJECT_DIR$/palindrome-number/palindrome-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plus-one/plus-one.iml" filepath="$PROJECT_DIR$/plus-one/plus-one.iml" />
       <module fileurl="file://$PROJECT_DIR$/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.iml" filepath="$PROJECT_DIR$/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/remove-element/remove-element.iml" filepath="$PROJECT_DIR$/remove-element/remove-element.iml" />
       <module fileurl="file://$PROJECT_DIR$/roman-to-integer/roman-to-integer.iml" filepath="$PROJECT_DIR$/roman-to-integer/roman-to-integer.iml" />
