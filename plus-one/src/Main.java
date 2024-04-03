@@ -38,25 +38,16 @@ public class Main {
 
 class Solution {
     public int[] plusOne(int[] digits) {
-        boolean done = false;
         int i = digits.length-1;
-        while(!done){
-            if (i==-1) {
-                int[] digits2 = new int[digits.length+1];
-                digits2[0] = 1;
-                for(int j=1; j<digits2.length;j++)
-                    digits2[j] = digits[j-1];
-                return digits2;
-            }
+        while(i > -1){
             if(digits[i]!=9){
                 digits[i] += 1;
-                done = true;
+                return digits;
             }
-            else{
-                digits[i] = 0;
-                i--;
-            }
+            digits[i--] = 0;
         }
+        digits = new int[digits.length+1];
+        digits[0] = 1;
         return digits;
     }
 }
