@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/add-binary/add-binary.iml" filepath="$PROJECT_DIR$/add-binary/add-binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.iml" filepath="$PROJECT_DIR$/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.iml" />
       <module fileurl="file://$PROJECT_DIR$/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.iml" filepath="$PROJECT_DIR$/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/length-of-last-word/length-of-last-word.iml" filepath="$PROJECT_DIR$/length-of-last-word/length-of-last-word.iml" />
